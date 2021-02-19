@@ -14,6 +14,7 @@ int main()
    {
        Result=Result+b;
        printf("%d ",Result );
+       printf("\n");
 
    }
 
