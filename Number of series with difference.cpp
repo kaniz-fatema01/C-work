@@ -4,7 +4,7 @@
 int main()
 {
     int a,b,i,Result;
-   printf("How many number of sum do you want: ");
+   printf("How many numbers do you want: ");
    scanf("%d", &a);
    printf("Difference between numbers: ");
    scanf("%d", &b);
